@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import SignUp from './assets/components/SignUp';
-import Landinpage from './assets/components/Landinpage';
+import Landinpage from './pages/landingPage/LandingPage';
 import { AuthContextProvider } from './assets/context/AuthContext';
 import Account from './assets/components/Account';
 
